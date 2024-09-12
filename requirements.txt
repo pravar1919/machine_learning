@@ -2,3 +2,4 @@ scikit-learn
 pandas
 word2number
 notebook
+seaborn
